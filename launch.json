@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "https://github.com/fionnajayne/final.git",
+            "file": "c:/Users/LENOVO/Desktop/my interactive resume/my resume/interactive-resume-master/index.html"
+        }
+    ]
+}
